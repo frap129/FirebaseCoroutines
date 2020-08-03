@@ -1,0 +1,2 @@
+include ':firebasecoroutines'
+rootProject.name = "FirebaseCoroutines"
